@@ -17,9 +17,11 @@
 # Reverse Shell Stabilization
 1. Via Python
     ```
-    python -c 'import pty; pty.spawn("/bin/bash")'
+    (On Target Machine) python -c 'import pty; pty.spawn("/bin/bash")'
+    (On Attack Machine) stty raw -echo; fg; reset
     ```
 2. Via script
     ```
-    /usr/bin/script -qc /bin/bash /dev/null
+    (On Target Machine) /usr/bin/script -qc /bin/bash /dev/null
+    (On Attack Machine) stty raw -echo; fg; reset
     ```
