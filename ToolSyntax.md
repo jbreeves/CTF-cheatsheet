@@ -1,7 +1,7 @@
 # Tool Syntax Examples
 
-[A](ToolSyntax#a) [B](ToolSyntax#b) [C](ToolSyntax#c) [D](ToolSyntax#d) [E](ToolSyntax#e) [F](ToolSyntax#f) [G](ToolSyntax#g) [H](ToolSyntax#h) [I](ToolSyntax#i) [J](ToolSyntax#j) [K](ToolSyntax#k) [L](ToolSyntax#l) [M](ToolSyntax#m) [N](ToolSyntax#n)
-[O](ToolSyntax#o) [P](ToolSyntax#p) [Q](ToolSyntax#q) [R](ToolSyntax#r) [S](ToolSyntax#s) [T](ToolSyntax#t) [U](ToolSyntax#u) [V](ToolSyntax#v) [W](ToolSyntax#w) [X](ToolSyntax#x) [Y](ToolSyntax#y) [Z](ToolSyntax#z)
+[A](ToolSyntax.md#a) [B](ToolSyntax.md#b) [C](ToolSyntax.md#c) [D](ToolSyntax.md#d) [E](ToolSyntax.md#e) [F](ToolSyntax.md#f) [G](ToolSyntax.md#g) [H](ToolSyntax.md#h) [I](ToolSyntax.md#i) [J](ToolSyntax.md#j) [K](ToolSyntax.md#k) [L](ToolSyntax.md#l) [M](ToolSyntax.md#m) [N](ToolSyntax.md#n)
+[O](ToolSyntax.md#o) [P](ToolSyntax.md#p) [Q](ToolSyntax.md#q) [R](ToolSyntax.md#r) [S](ToolSyntax.md#s) [T](ToolSyntax.md#t) [U](ToolSyntax.md#u) [V](ToolSyntax.md#v) [W](ToolSyntax.md#w) [X](ToolSyntax.md#x) [Y](ToolSyntax.md#y) [Z](ToolSyntax.md#z)
 
 ## A
 
