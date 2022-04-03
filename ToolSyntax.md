@@ -36,7 +36,7 @@
 
 ## K
 - Kerbrute
-    - `./kerbrute userenum -d <IP> <wordlist>`
+    - `./kerbrute userenum --dc <hostname> -d <IP> <wordlist>`
 
 ## L
 
