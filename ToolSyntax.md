@@ -28,9 +28,9 @@
     - `hashcat -m <mode number> <input file> <output file>`
 
 ## I
-    - Impacket
-        - Kerberoasting
-            `sudo python3 GetUserSPNs.py <hostname>/<user>:<password> -dc-ip <IP Address> -request`
+- Impacket
+    - Kerberoasting
+        `sudo python3 GetUserSPNs.py <hostname>/<user>:<password> -dc-ip <IP Address> -request`
 
 ## J
 
