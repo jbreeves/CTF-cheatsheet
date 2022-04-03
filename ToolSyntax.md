@@ -30,7 +30,7 @@
 ## I
     - Impacket
         - Kerberoasting
-            ` `
+            `sudo python3 GetUserSPNs.py <hostname>/<user>:<password> -dc-ip <IP Address> -request`
 
 ## J
 
