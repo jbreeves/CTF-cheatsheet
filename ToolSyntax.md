@@ -28,6 +28,9 @@
     - `hashcat -m <mode number> <input file> <output file>`
 
 ## I
+    - Impacket
+        - Kerberoasting
+            ` `
 
 ## J
 
@@ -49,7 +52,12 @@
 
 ## R
 - Rubeus
-    - asdf
+    - AS-REP Roasting
+        `Rubeus.exe asreproast`
+    - Kerberoasting
+        `Rubeus.exe kerberoast`
+    - Harvesting
+        `Rubeus.exe harvest /interval:30`
 
 ## S
 
@@ -66,7 +74,8 @@
     - `wpscan --url <url> --api-token <api-token> --usernames <username> --passwords <wordlist>`
 
 ## X
-
+- XfreeRDP
+    - `xfreerdp /dynamic-resolution +clipboard /cert:ignore /v:<IP ADDRESS> /u:<username> /p:'<password>'`
 ## Y
 
 ## Z
